@@ -1,0 +1,11 @@
+[
+	{ "keys": ["ctrl+t"], "command": "new_file" },
+	{ "keys": ["ctrl+n"], "command": "find_under" },
+	{ "keys": ["ctrl+d"], "command": "delete_line" },
+	{ "keys": ["ctrl+alt+n"], "command": "new_file" },
+	{ "keys": ["alt+home"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+	{ "keys": ["alt+up"], "command": "swap_line_up" },
+	{ "keys": ["alt+down"], "command": "swap_line_down" },
+	{ "keys": ["ctrl+alt+f"], "command": "pretty_print_xml" },
+	{ "keys": ["ctrl+alt+down"], "command": "duplicate_line" }
+]
