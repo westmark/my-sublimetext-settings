@@ -1,0 +1,34 @@
+{
+	"align_indent": false,
+
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+
+	"tab_size": 2,
+
+	"translate_tabs_to_spaces": true,
+
+	"trim_trailing_white_space_on_save": true,
+
+	"ensure_newline_at_eof_on_save": true,
+
+	"font_face": "Liberation Mono",
+
+	"font_options":
+	[
+		"bold"
+	],
+
+	"font_size": 8,
+
+	"sublimelinter_executable_map":
+	{
+		"javascript": "C:\\Program Files (x86)\\nodejs\\node.exe"
+	},
+
+  "pyflakes_ignore":
+  [
+  	"base"
+  ],
+
+	"sublimelinter_delay": 5
+}

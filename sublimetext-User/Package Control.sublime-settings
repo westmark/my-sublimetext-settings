@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": 1326576728,
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Clipboard History",
+		"ColorPicker",
+		"Git",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"Package Control",
+		"Prefixr",
+		"SublimeLinter",
+		"SublimeTODO",
+		"Terminal",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/weslly/ColorPicker"
+	]
+}
